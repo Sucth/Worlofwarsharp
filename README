@@ -1,0 +1,8 @@
+Le code gère les choix du joueur à partir d'un menu affiché à l'écran, permettant au joueur de visualiser son inventaire, ses statistiques,
+d'acheter de l'équipement, de l'équiper et de se battre. Les objets disponibles pour achat et équipement incluent des armes, des armures et des
+talismans. Les statistiques du joueur incluent son nom, son niveau, son argent, sa force, sa défense et sa capacité de guérison. Vous pouvez
+également passer des niveaux avec de l'argent en combattant des boss de différents niveaux. Plus le boss est difficile, plus il rapporte d'argent.
+Pour tester rapidement toutes les fonctionnalités, vous pouvez entrer 7 pour accéder à un aperçu du jeu. Il existe également un cheat pour obtenir
+de l'équipement de haut niveau et combattre les boss plus rapidement.
+
+Su.Théo
